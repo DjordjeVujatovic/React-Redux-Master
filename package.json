@@ -6,8 +6,7 @@
     "start": "webpack-dev-server --inline --history-api-fallback"
   },
   "author": "Djordje Vujatovic",
-  "keywords": [],
-  "description": "react-redux-seed",
+  "description": "React + Redux starter seed.",
   "dependencies": {
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
